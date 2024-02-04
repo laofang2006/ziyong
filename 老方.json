@@ -42,6 +42,16 @@
       "ext": "https://www.czzy55.com/"
     },
     {
+      "key": "厂长js",
+      "name": "无界🌏厂长影视js",
+      "type": 3,
+      "api": "./box/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./box/js/czspp.js"
+    },
+    {
       "key": "Xinsj",
       "name": "👓视觉┃直连",
       "type": 3,
@@ -82,6 +92,16 @@
       "changeable": 1
     },
     {
+      "key": "南瓜js",
+      "name": "无界🌏南瓜影视js",
+      "type": 3,
+      "api": "./box/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./box/js/nangua.js"
+    },
+    {
       "key": "77",
       "name": "👒七七┃App",
       "type": 3,
@@ -91,14 +111,32 @@
       "changeable": 1
     },
     {
-      "key": "虾米",
-      "name": "🦀虾米┃App",
+      "key": "csp_XBPQ_6V",
+      "name": "无界🌏磁力[4K]",
       "type": 3,
-      "api": "csp_AppSK",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+      "filterable": 1,
+      "ext": "./box/json/6V磁.json"
+    },
+    {
+      "key": "4KHDR",
+      "name": "无界🌏HDR[4K]",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/4KHDR2.js"
+    },
+    {
+      "key": "影探",
+      "name": "无界🌏影探[4K]",
+      "type": 3,
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/影探.js",
+      "jar": "./box/spider/PandaQ240203.jar"
     },
     {
       "key": "小柚",
