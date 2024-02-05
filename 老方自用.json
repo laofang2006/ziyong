@@ -52,14 +52,14 @@
       "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃App",
+      "key": "南瓜",
+      "name": "🌈南瓜┃App",
       "type": 3,
-      "api": "csp_AppMao",
+      "api": "csp_NanGua",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+      "changeable": 1
     },
     {
       "key": "南瓜",
