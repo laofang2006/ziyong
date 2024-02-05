@@ -60,14 +60,7 @@
       "filterable": 1,
       "changeable": 1
     },
-    {
-      "key":"drpy_js_Voflix",
-       "name":"🍭Voflix",
-       "type":3,
-        "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js"，
-      "ext":"https://xhdwc.tk/js/Voflix.js"
-        },
-    {
+   {
       "key": "csp_Ddys",
       "name": "🐞低端影视",
       "type": 3,
