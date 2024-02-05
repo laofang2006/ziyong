@@ -52,7 +52,7 @@
       "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
     {
-      "key": "南瓜",
+      "key": "南瓜1",
       "name": "🌈南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
@@ -62,7 +62,7 @@
       "changeable": 1
     },
     {
-      "key": "南瓜",
+      "key": "南瓜2",
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
@@ -112,17 +112,16 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
     {
-      "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "key": "一起看1 ",
+      "name": "🌈一起┃App",
       "type": 3,
-      "api": "csp_MLYS",
+      "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
+      "changeable": 1
     },
     {
-      "key": "一起看 ",
+      "key": "一起看2 ",
       "name": "🎉一起┃App",
       "type": 3,
       "api": "csp_YQKan",
