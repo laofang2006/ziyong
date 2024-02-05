@@ -70,16 +70,6 @@
       "changeable": 1
     },
     {
-      "key": "赞赞",
-      "name": "➕赞赞┃切片",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:2323/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "暴风",
       "name": "暴风",
       "type": 1,
@@ -104,17 +94,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "AppYs_南瓜",
-      "name": "🎇南瓜影视",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
     {
       "key": "九六",
