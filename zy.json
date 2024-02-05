@@ -81,14 +81,54 @@
       "changeable": 1
     },
     {
-      "key": "77",
-      "name": "👒七七┃App",
+      "key": "南瓜1",
+      "name": "🌈南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南瓜2",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "一起看1 ",
+      "name": "🌈一起┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "一起看2",
+      "name": "🌾一起┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+     {
+      "key": "csp_77",
+      "name": "🥣七七┃APP",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
+    
     {
       "key": "萌米",
       "name": "👀萌米┃App",
@@ -490,122 +530,9 @@
       "quickSearch": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
-    },
-    {
-      "key": "Nbys",
-      "name": "🛫泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
+    
+   
     {
       "key": "fan",
       "name": "导航 https://饭太硬.top",
