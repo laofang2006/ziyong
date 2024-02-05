@@ -22,7 +22,7 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
-      "key": "南瓜1",
+      "key": "南瓜",
       "name": "🌈南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
@@ -32,7 +32,7 @@
       "changeable": 1
     },
     {
-      "key": "南瓜",
+      "key": "南瓜2",
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
@@ -42,7 +42,7 @@
       "changeable": 1
     }，
     {
-      "key": "一起看1",
+      "key": "一起看",
       "name": "🌾一起┃App",
       "type": 3,
       "api": "csp_YQKan",
@@ -81,7 +81,7 @@
     },
     {
       "key": "暴风",
-      "name": "暴风",
+      "name": "🌈暴风┃App",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
